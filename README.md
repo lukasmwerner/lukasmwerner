@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏫 Im a junior at La Salle College Prep. 
+⏱ I spend my time thinking about how to improve the visibility of STEAM programs in schools.
+🧑‍💻 Golang, Python, Javascript, Web-Tech, Java, Mobile

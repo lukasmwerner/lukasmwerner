@@ -1,4 +1,5 @@
-### Hi there 👋
+`$ echo 'Hello World!👋 '`
+### Hello World!👋
 
 <!--
 **lwerner-lshigh/lwerner-lshigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+`$ cat about.txt`
+
 🏫 Im a junior at La Salle College Prep. 
 
 ⏱ I spend my time thinking about how to improve the visibility of STEAM programs in schools.
+
+`$ cat languages.txt`
 
 🧑‍💻 Golang, Python, Javascript, Web-Tech, Java, Mobile

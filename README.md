@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 
 `$ cat about.txt`
 
-🏫 Im a junior at La Salle College Prep. 
+🏫 Im a senior at La Salle College Prep. 
 
 ⏱ I spend my time thinking about how to improve the visibility of STEAM programs in schools.
 
 `$ cat languages.txt`
 
-🧑‍💻 Golang, Python, Javascript, Web-Tech, Java, Mobile
+🧑‍💻 Golang, Python, Javascript + (TS) , Web-Tech, Java, Mobile
+
+`$ cat employers.txt`
+-> Mackenzie Design
+-> Welocalize

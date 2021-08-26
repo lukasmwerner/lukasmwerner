@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 🧑‍💻 Golang, Python, Javascript + (TS) , Web-Tech, Java, Mobile
 
 `$ cat employers.txt`
+```
 -> Mackenzie Design
 -> Welocalize
+```

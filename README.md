@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🏆 [Congressional App Challenge Winner!](https://www.congressionalappchallenge.us/cloudpc-wins-rep-kurt-schraders-2021-congressional-app-challenge-in-oregons-fifth-district/)
 
-🏫 Im a senior at La Salle College Prep. I am the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://lasallerobotics.club/). I'm also the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
+🏫 Im a senior at La Salle College Prep. I am the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I'm also the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
 
 ⏱ I spend my time thinking about how to improve the visibility of STEAM programs in schools.
 

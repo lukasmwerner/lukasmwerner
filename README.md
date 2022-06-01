@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 `$ cat about.txt`
 
 
-🏆 [Congressional App Challenge Winner!](https://www.congressionalappchallenge.us/cloudpc-wins-rep-kurt-schraders-2021-congressional-app-challenge-in-oregons-fifth-district/)
+🏆 [Congressional App Challenge Winner!](https://www.congressionalappchallenge.us/21-OR05/)
 
 🏫 Im a senior at La Salle College Prep. I am the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I'm also the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
 

@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 
 🏆 [Congressional App Challenge Winner!](https://www.congressionalappchallenge.us/21-OR05/)
+
 🏆 [Oregon FIRST Design Award Winner! Freight-Frenzy Season](https://ftc-events.firstinspires.org/team/4511)
 
 
 🏫 Graduated 2022 @ La Salle College Prep. I was the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I also was the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
+
 🏫 Current student at OSU
 
 ⏱ Working on eliminating social engineering. Also mentoring my old robotics team!

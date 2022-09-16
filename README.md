@@ -20,10 +20,13 @@ Here are some ideas to get you started:
 
 
 🏆 [Congressional App Challenge Winner!](https://www.congressionalappchallenge.us/21-OR05/)
+🏆 [Oregon FIRST Design Award Winner! Freight-Frenzy Season](https://ftc-events.firstinspires.org/team/4511)
 
-🏫 Im a senior at La Salle College Prep. I am the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I'm also the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
 
-⏱ I spend my time thinking about how to improve the visibility of STEAM programs in schools.
+🏫 Graduated 2022 @ La Salle College Prep. I was the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I also was the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
+🏫 Current student at OSU
+
+⏱ Working on eliminating social engineering. Also mentoring my old robotics team!
 
 `$ cat languages.txt`
 
@@ -33,4 +36,6 @@ Here are some ideas to get you started:
 ```
 -> Mackenzie Design
 -> Welocalize
+    -> Intern
+    -> Security Analyst
 ```

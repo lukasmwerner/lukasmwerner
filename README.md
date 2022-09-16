@@ -32,7 +32,13 @@ Here are some ideas to get you started:
 
 `$ cat languages.txt`
 
-🧑‍💻 Golang, Python, Javascript + (TS) , Web-Tech, Java, Mobile
+|Primary|Secondary|Learning|
+|---|---|---|
+|✨ Golang| TypeScript|✨Rust|
+|Python|Java| |
+|Javascript| Mobile| |
+|Web Technologies| | |
+
 
 `$ cat employers.txt`
 ```

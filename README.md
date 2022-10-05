@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 -> Mackenzie Design
 -> Welocalize
     -> Intern
-    -> Security Analyst
+    -> Information Security Coordinator
 ```

@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⏱ Working on eliminating social engineering. Also mentoring my old robotics team!
 
-`$ cat languages.txt`
+`$ cat languages.csv`
 
 |Primary|Secondary|Learning|
 |---|---|---|

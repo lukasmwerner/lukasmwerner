@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 |Primary|Secondary|Learning|
 |---|---|---|
 |✨ Golang| TypeScript|✨Rust|
-|Python|Java| |
+|Python|Java| Distributed Systems |
 |Javascript| Mobile| |
 |Web Technologies| | |
 

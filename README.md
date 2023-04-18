@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 🏫 Graduated 2022 @ La Salle College Prep. I was the team captain and lead designer our First Tech Challenge team, [Maker Industries #4511](https://github.com/LaSalleRobots). I also was the [Media Editor](https://lasallefalconer.com/staff_name/lukas-werner/) for the award winning high school paper [the Falconer](https://lasallefalconer.com/). 
+🏫 Now Computer Science and Robotics @ColoradoSchoolOfMines 
 
 ⏱ Working on eliminating social engineering. Also mentoring my old robotics team!
 

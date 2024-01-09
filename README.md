@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 |Primary|Secondary|Learning|
 |---|---|---|
-|✨ Golang| TypeScript|✨Zig|
+|✨ Golang| TypeScript|✨Elixir|
 |Python|Java| Distributed Systems |
 |Javascript| Mobile| |
 |Web Technologies| Rust | |

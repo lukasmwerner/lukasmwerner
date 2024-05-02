@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 |Primary|Secondary|Learning|
 |---|---|---|
-|✨ Golang| TypeScript|✨Elixir|
-|Python|Java| Distributed Systems |
-|Javascript| Mobile| |
-|Web Technologies| Rust | |
+|✨ Golang|Mobile|✨Gleam|
+|Python|Rust|Distributed Systems|
+|Javascript||Data Structures|
+|Web Technologies|||
 
 
 `$ cat employers.txt`

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🏫 Now studying Computer Science @ Oregon State University 
 
-⏱ Working on finding all the bugs in configs and then reporting them
+⏱ Thinking how to build better software
 
 `$ cat languages.csv`
 
